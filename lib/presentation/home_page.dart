@@ -1,14 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:tomisha_test_app/utils/responsive_check.dart';
 import 'dart:math' as math;
 
-import 'package:tomisha_test_app/widgets/action_button.dart';
 import 'package:tomisha_test_app/widgets/custom_appbar.dart';
 import 'package:tomisha_test_app/widgets/opening_section.dart';
 import 'package:tomisha_test_app/widgets/registration_bottom_sheet.dart';
-import 'package:tomisha_test_app/widgets/registration_button.dart';
 import 'package:tomisha_test_app/widgets/tab_view.dart';
 
 class MyHomePage extends StatefulWidget {
